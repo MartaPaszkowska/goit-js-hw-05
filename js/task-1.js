@@ -1,4 +1,5 @@
 "use strict";
+
 const getUserNames = (users) => users.map((user) => user.name);
 
 console.log(
